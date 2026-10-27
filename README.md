@@ -139,10 +139,9 @@ The lab worked on day one. On day two the VM had no internet. This was the most 
 
 
 ```
-![Network settings]
+
 <img width="596" height="392" alt="network settings" src="https://github.com/user-attachments/assets/9da1660a-b7f9-432c-9bc0-0eb4535dbdd3" />
 
-![Successful ping]
 <img width="1536" height="864" alt="successful ping" src="https://github.com/user-attachments/assets/dc30fdc6-1c1d-4744-81c9-06e2acb99ea6" />
 
 ```
