@@ -1,6 +1,25 @@
+<div align="center">
 # Pentesting Lab Setup: Kali Linux on a VirtualBox NAT Network
 
 My first cybersecurity project: building an isolated virtual lab for practicing penetration testing safely, and troubleshooting the network problems that came up along the way.
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Ver-Virtualbox%20v7.2-0070C0?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-v2026.2-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skill-Linux-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Network-10.0.0.0%2F24-238F89?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Penetration%20Testing-C00000?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skill-Virtualization-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/GitHub-404040?style=flat-square&labelColor=0070C0&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-404040?style=flat-square&labelColor=C00000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetworkWalks-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Waqas%20Karim%20CCIE-C00000?style=flat-square" />
+</p>
+
+---
 
 ## Project Overview
 
@@ -135,16 +154,8 @@ The lab worked on day one. On day two the VM had no internet. This was the most 
 - [ ] Make the static IP configuration persistent across reboots
 - [ ] Enable DHCP on the NAT Network and compare
 
-## Screenshots
 
 
-```
-
-<img width="596" height="392" alt="network settings" src="https://github.com/user-attachments/assets/9da1660a-b7f9-432c-9bc0-0eb4535dbdd3" />
-
-<img width="1536" height="864" alt="successful ping" src="https://github.com/user-attachments/assets/dc30fdc6-1c1d-4744-81c9-06e2acb99ea6" />
-
-```
 
 ## Acknowledgments
 
