@@ -20,17 +20,6 @@ The goal was to build a contained environment where I can run offensive security
 
 ## Network Design
 
-```
-        Internet
-            |
-      [Host laptop / Wi-Fi]
-            |
-   VirtualBox NAT Network
-      10.0.0.0/24 (gw 10.0.0.1)
-      /                  \
- Kali Linux          Target VM(s)
- 10.0.0.4            10.0.0.x
-```
 <img width="588" height="265" alt="Screenshot 2026-10-27 120813" src="https://github.com/user-attachments/assets/e1ff3464-f863-4642-a9d8-82479722f204" />
 
 
@@ -148,11 +137,12 @@ The lab worked on day one. On day two the VM had no internet. This was the most 
 
 ## Screenshots
 
-Add images to a `/screenshots` folder and link them here:
 
 ```
-![Network settings](screenshots/network-settings.png)
-![Successful ping](screenshots/ping-test.png)
+![Network settings]<img width="596" height="392" alt="network settings" src="https://github.com/user-attachments/assets/9da1660a-b7f9-432c-9bc0-0eb4535dbdd3" />
+
+![Successful ping]<img width="1536" height="864" alt="successful ping" src="https://github.com/user-attachments/assets/dc30fdc6-1c1d-4744-81c9-06e2acb99ea6" />
+
 ```
 
 ## Acknowledgments
