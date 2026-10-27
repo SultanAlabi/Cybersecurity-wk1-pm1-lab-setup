@@ -29,7 +29,7 @@ The goal was to build a contained environment where I can run offensive security
 
 | Component | Details |
 |---|---|
-| Host OS | Windows 11] |
+| Host OS | Windows 11 |
 | Hypervisor | Oracle VirtualBox 7.2.22 |
 | Attacker VM | Kali Linux 2026.2 |
 | Network type | VirtualBox NAT Network |
