@@ -163,4 +163,4 @@ Thanks to my instructor Waqas Karim for the guidance and lab assignment.
 
 ## Author
 
-Alabi Abdulhameed Ayomikun | [LinkedIn URL]
+Alabi Abdulhameed Ayomikun | LinkedIn URL: https://www.linkedin.com/in/abdulhameed-alabi-866272342
